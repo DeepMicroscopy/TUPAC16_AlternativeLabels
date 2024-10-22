@@ -62,3 +62,16 @@ We share the notebooks used to train RetinaNet by Lin et al. on the original TUP
 - [RetinaNet-TUPAC_AL-CrossValidationTrainingset_Batch2.ipynb](RetinaNet-TUPAC_AL-CrossValidationTrainingset_Batch2.ipynb)
 - [RetinaNet-TUPAC_AL-CrossValidationTrainingset_Batch3.ipynb](RetinaNet-TUPAC_AL-CrossValidationTrainingset_Batch3.ipynb)
 
+## Citation
+
+```
+@inproceedings{bertram2020pathologist,
+  title={Are pathologist-defined labels reproducible? Comparison of the TUPAC16 mitotic figure dataset with an alternative set of labels},
+  author={Bertram, Christof A and Veta, Mitko and Marzahl, Christian and Stathonikos, Nikolas and Maier, Andreas and Klopfleisch, Robert and Aubreville, Marc},
+  booktitle={Interpretable and Annotation-Efficient Learning for Medical Image Computing: Third International Workshop, iMIMIC 2020, Second International Workshop, MIL3ID 2020, and 5th International Workshop, LABELS 2020, Held in Conjunction with MICCAI 2020, Lima, Peru, October 4--8, 2020, Proceedings 3},
+  pages={204--213},
+  year={2020},
+  organization={Springer}
+}
+```
+
